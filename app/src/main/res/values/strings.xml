@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Smart GP Clinic</string>
+
+    <!--    Activity Main-->
+    <string name="tv_mainPage">Welcome to Smart GP Clinic</string>
+    <string name="btn_nfcMainPage">NFC</string>
+    <string name="btn_loginMainPage">Log In</string>
+    <string name="btn_registerMainPage">Register</string>
+
 </resources>
