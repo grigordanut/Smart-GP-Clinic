@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742424166696",
+    "project_id": "smart-gp-clinic",
+    "storage_bucket": "smart-gp-clinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742424166696:android:021329e5eefc0e5997d01d",
+        "android_client_info": {
+          "package_name": "com.example.smartgpclinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMdC6dCFbSSJogfYdmht2o5ethkVT0aw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
