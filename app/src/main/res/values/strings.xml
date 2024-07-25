@@ -1,6 +1,15 @@
 <resources>
     <string name="app_name">Smart GP Clinic</string>
 
+
+    <!--    Activity Check Unique Code-->
+    <string name="tv_checkUniqueCode">Check your Unique Code</string>
+    <string name="tv_hospitalUniqueCode">Enter H.. or h..for Hospital</string>
+    <string name="tv_doctorUniqueCode">Enter D.. or d..for Doctor</string>
+    <string name="et_checkUniqueCode">Enter your Unique Code</string>
+    <string name="btn_checkUniqueCode">Check Code</string>
+
+
     <!--    Activity Main-->
     <string name="tv_mainPage">Welcome to Smart GP Clinic</string>
     <string name="btn_nfcMainPage">NFC</string>
