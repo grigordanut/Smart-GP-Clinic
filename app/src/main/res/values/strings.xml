@@ -9,6 +9,15 @@
     <string name="et_checkUniqueCode">Enter your Unique Code</string>
     <string name="btn_checkUniqueCode">Check Code</string>
 
+    <!--    Activity Hospital Registration-->
+    <string name="tv_hospReg">Enter Hospital details</string>
+    <string name="et_hospUniqueCodeReg">Unique Code</string>
+    <string name="et_hospNameReg">Hospital Name</string>
+    <string name="et_hospEmailReg">Email Address</string>
+    <string name="et_hospPassReg">Password</string>
+    <string name="et_hospConfPassReg">Confirm Password</string>
+    <string name="btn_hospReg">Register</string>
+    <string name="btn_hospLog">Log in</string>
 
     <!--    Activity Main-->
     <string name="tv_mainPage">Welcome to Smart GP Clinic</string>
