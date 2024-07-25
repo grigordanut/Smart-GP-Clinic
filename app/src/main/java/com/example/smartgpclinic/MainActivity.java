@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent nfc = new Intent(MainActivity.this, NFCActivity.class);
                 startActivity(nfc);
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
             }
         });
 
@@ -30,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, LoginBy.class));
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
             }
         });
 
@@ -38,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
         btn_registerMain.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent sign = new Intent(MainActivity.this, CheckUniqueCode.class);
-                startActivity(sign);
+                startActivity(new Intent(MainActivity.this, CheckUniqueCode.class));
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left);
             }
         });
     }
